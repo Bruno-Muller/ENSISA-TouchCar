@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file alias="backlight_off">ressources/buttons/backlight_off.png</file>
+        <file alias="backlight_on">ressources/buttons/backlight_on.png</file>
+        <file alias="blinker_left_off">ressources/buttons/blinker_left_off.png</file>
+        <file alias="blinker_left_on">ressources/buttons/blinker_left_on.png</file>
+        <file alias="blinker_right_off">ressources/buttons/blinker_right_off.png</file>
+        <file alias="blinker_right_on">ressources/buttons/blinker_right_on.png</file>
+        <file alias="mainbeam_off">ressources/buttons/mainbeam_off.png</file>
+        <file alias="mainbeam_on">ressources/buttons/mainbeam_on.png</file>
+        <file alias="position_off_lowbeam_off">ressources/buttons/position_off_lowbeam_off.png</file>
+        <file alias="position_on_lowbeam_off">ressources/buttons/position_on_lowbeam_off.png</file>
+        <file alias="position_on_lowbeam_on">ressources/buttons/position_on_lowbeam_on.png</file>
+        <file alias="stoplight_off">ressources/buttons/stoplight_off.png</file>
+        <file alias="stoplight_on">ressources/buttons/stoplight_on.png</file>
+        <file alias="warning_off">ressources/buttons/warning_off.png</file>
+        <file alias="warning_on">ressources/buttons/warning_on.png</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file alias="logo">ressources/logo/peugeot_206_blue.png</file>
+    </qresource>
+    <qresource prefix="/voice"/>
+    <qresource prefix="/others">
+        <file alias="qrcode">ressources/others/QRCode.png</file>
+    </qresource>
+</RCC>
